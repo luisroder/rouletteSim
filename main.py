@@ -1,6 +1,6 @@
-from roulette import bet
+from game.roulette import bet
 from colorama import init, Fore, Back, Style
-from color import Color
+from enums.color import Color
 
 
 init()
